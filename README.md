@@ -120,11 +120,14 @@ O **Dragon Catálogo** é uma aplicação Full Stack completa desenvolvida para 
 
 ## Como Instalar e Rodar
 
+## Como rodar
+Tem que está no terminal da arquivo do back e front.
+No back ende o comando é npm run dev e no terminal do front npm start. Os dois terminais tem que está abertos.
+
 ### Pré-requisitos
 * Node.js instalado.
 * MongoDB (Local ou Atlas) configurado.Configurar o Backend
 Bash
-
 
 ## Login acesso admin 
 Email: Leonam@gmail.com ou Randel@gmail.com
